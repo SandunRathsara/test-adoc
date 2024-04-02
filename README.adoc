@@ -1,0 +1,51 @@
+legend top left Root |_ Element 1   |_ Element 1.1   |_ Element 1.2 |_ Element 2   |_ Element 2.1 end legend
+
+= Coding Best Practices
+:toc:
+
+== Naming Convensions
+=== Interfaces
+- bla bla bla
+
+=== Typesm 1
+- bla bla bla
+
+=== Typesm 2
+- bla bla bla
+
+=== Typesm 3
+- bla bla bla
+
+=== Typesm 4
+- bla bla bla
+
+=== Typesm 5
+- bla bla bla
+
+=== Typesm 6
+- bla bla bla
+
+=== Typesm 7
+- bla bla bla
+
+=== Typesm 8
+- bla bla bla
+
+=== Typesm 9
+- bla bla bla
+
+=== Typesm 10
+- bla bla bla
+
+=== Typesm 11
+- bla bla bla
+
+=== Typesm 12
+- bla bla bla
+
+=== Typesm 13
+- bla bla bla
+
+=== Typesm 14
+- bla bla bla
+
